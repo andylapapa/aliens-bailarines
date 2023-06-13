@@ -1,0 +1,29 @@
+body{
+    background: rgb(204, 141, 212);
+    text-align: center;
+}
+
+h2{
+    color:#c6aeda;
+    font-size:"40";
+}
+
+.pie{
+    background-color: rgb(46, 11, 110);
+    width:100%;
+    text-align: 18;
+    color:rgb(53, 24, 80);
+    text-shadow: 5px 5px 5px rgb(255, 250, 250);
+position: fixed;
+bottom: 0;
+line-height: 3;
+    
+
+}
+P{
+    COLOR:AZURE;
+    FONT-SIZE:18;
+    FONT-WEIGHT:BOLD;
+    letter-spacing: 2px;
+font-family: 'Roboto', sans-serif;
+}
